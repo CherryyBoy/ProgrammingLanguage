@@ -22,7 +22,7 @@ git clone https://github.com/CapitanAir/ProgramingLanguage.git
 cd ProgramingLanguage
 ```
 
-2. run psh!
+2. run Cherry lang!
 ```shell
 python Main.py
 ```
