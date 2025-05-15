@@ -22,7 +22,7 @@ git clone https://github.com/CherryyBoy/ProgrammingLanguage.git
 cd ProgramingLanguage
 ```
 
-2. run Cherry lang!
+2. run language!
 ```shell
 python Main.py
 ```
