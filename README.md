@@ -18,7 +18,7 @@
 ### How to install⬇️:
 1. Clone this repo.
 ```shell
-git clone https://github.com/CherryyBoy/Cherrylang.git
+git clone https://github.com/CherryyBoy/ProgrammingLanguage.git
 cd ProgramingLanguage
 ```
 
